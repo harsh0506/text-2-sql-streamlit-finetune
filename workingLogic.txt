@@ -1,0 +1,34 @@
+API
+
+1) user will upload a csv/ json/ tsv/ docx/ Parquet
+2) the file is being saved and pre processing will get start
+3) prepreoceesing :
+    3.1) generate a "create table" sql command for the data
+    3.2) create basic analytics for the file (statistical analysis etc) and save the data
+4) create a session , user will talk about the pdf 
+5) the chat is a continuous (maybe be implement using web sockets)
+6) the question will be sent, the userid and related to that userid's data file,create table query(string) will
+   be loaded. using the sql query and user question the input string is created. after input is created 
+   the right sql query to get answer with respect to input is created(this will be done using predefined function).
+   spark session gets started and the sql is run and output is created. output is sent to user and saved in db.
+7) a user can have multiple pdfs and there can be multiple users. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
