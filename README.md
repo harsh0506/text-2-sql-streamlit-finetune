@@ -50,7 +50,7 @@ This is a Streamlit web application for generating SQL queries based on question
 5. View generated SQL queries and query results.
 
 ## Contributors
-- [Your Name](https://github.com/your-profile) - Developer
+- [Harsh joshi](https://github.com/harsh0506/text-2-sql-streamlit-finetune) - Developer
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
