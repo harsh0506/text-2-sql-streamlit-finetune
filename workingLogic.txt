@@ -1,3 +1,11 @@
+to do:
+
+1) add logic to preprocess the csv file . such as convert the data type column to its right datat type.
+2) Handle basic date time operations
+3) Add compatibilty with json , excel and xml files
+4) Connect the model with sql database and perform safe queries. 
+
+
 API
 
 1) user will upload a csv/ json/ tsv/ docx/ Parquet
